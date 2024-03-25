@@ -1,4 +1,4 @@
-FROM node:14-alpine3.14
+FROM node:16.3-alpine3.12
 
 WORKDIR /users/camle/app
 
