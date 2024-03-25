@@ -1,6 +1,6 @@
 FROM node:21-alpine
 
-WORKDIR /usr/src/app
+WORKDIR /users/camle/app
 
 COPY package*.json ./
 
